@@ -1,8 +1,6 @@
 ### Hi there, I am Ray 👋
 
-<a href="github.com/RayZhang524">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayZhang524&theme=great-gatsby&showicons=true)](https://github.com/RuiZhang2Penn/github-readme-stats" alt="Ray's Top Langs" />
-</a>
+
 
 <br/>
 <br/>
